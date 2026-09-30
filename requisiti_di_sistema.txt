@@ -1,0 +1,4 @@
+# STREAMING_CHUNK:Listing python package dependencies...
+streamlit>=1.30.0
+openai>=1.10.0
+markdown>=3.5
